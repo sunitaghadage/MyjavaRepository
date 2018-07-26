@@ -5,14 +5,14 @@ class HelloWorld
 	{
 		
 
-		System.out.println("Display date=");
+		System.out.println("Display date="+new Date());
 
 		
 	}
 	public static void main(String args[])
 	{
 
-		System.out.println("Hello world...Welcome to git.....");
+		System.out.println("Hello world...!!!!!!Welcome to git.!!!....");
 	
 		displayDate();
 
