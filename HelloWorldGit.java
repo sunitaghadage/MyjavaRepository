@@ -1,8 +1,13 @@
 class HelloWorld
 {
 
-	void displayDate(){
-	sysout("Display todays date:-");
+	void displayDate()
+	{
+		
+
+		System.out.println("Display date=");
+
+		
 	}
 	public static void main(String args[])
 	{
