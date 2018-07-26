@@ -1,7 +1,7 @@
 class HelloWorld
 {
 
-	void displayDate()
+	static void displayDate()
 	{
 		
 
@@ -13,6 +13,8 @@ class HelloWorld
 	{
 
 		System.out.println("Hello world...Welcome to git.....");
-}
+		display();
+
+	}
 }
 
